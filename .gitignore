@@ -106,3 +106,7 @@ dist
 # Custom
 yarn.lock
 package-lock.json
+
+# ide
+.vscode
+.idea
