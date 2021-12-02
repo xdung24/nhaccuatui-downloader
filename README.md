@@ -13,13 +13,13 @@
   - Using `npm`:
 
   ```sh
-  $ npm install -g @phatnguyenuit/nhaccuatui-downloader
+  $ npm install -g @xdung24/nhaccuatui-downloader
   ```
 
   - Using `yarn`:
 
   ```sh
-  $ yarn global add @phatnguyenuit/nhaccuatui-downloader
+  $ yarn global add @xdung24/nhaccuatui-downloader
   ```
 - Usage:
 
